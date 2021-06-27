@@ -24,12 +24,12 @@
         "ctc_loss_start_iter": 10000
     },
     "data_config": {
-        "training_files": "filelists/ljs_audiopaths_text_sid_train_filelist.txt",
-        "validation_files": "filelists/ljs_audiopaths_text_sid_val_filelist.txt",
-        "text_cleaners": ["flowtron_cleaners"],
+        "training_files": "filelists/vivos_audio_text_train_filelist.txt",
+        "validation_files": "filelists/vivos_audio_text_val_filelist.txt",
+        "text_cleaners": ["basic_cleaners"],
         "p_arpabet": 0.5,
         "cmudict_path": "data/cmudict_dictionary",
-        "sampling_rate": 22050,
+        "sampling_rate": 16000,
         "filter_length": 1024,
         "hop_length": 256,
         "win_length": 1024,
