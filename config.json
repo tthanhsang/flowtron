@@ -24,8 +24,8 @@
         "ctc_loss_start_iter": 10000
     },
     "data_config": {
-        "training_files": "filelists/vivos_audio_text_train_filelist.txt",
-        "validation_files": "filelists/vivos_audio_text_val_filelist.txt",
+        "training_files": "filelists/viet-tts_train.txt",
+        "validation_files": "filelists/viet-tts_val.txt",
         "text_cleaners": ["basic_cleaners"],
         "p_arpabet": 0.5,
         "cmudict_path": "data/cmudict_dictionary",
