@@ -24,8 +24,8 @@
         "ctc_loss_start_iter": 10000
     },
     "data_config": {
-        "training_files": "filelists/viet-tts_train.txt",
-        "validation_files": "filelists/viet-tts_val.txt",
+        "training_files": "filelists/infore_train_files.txt",
+        "validation_files": "filelists/infore_val_files.txt",
         "text_cleaners": ["basic_cleaners"],
         "p_arpabet": 0.5,
         "cmudict_path": "data/cmudict_dictionary",

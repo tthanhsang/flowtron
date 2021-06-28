@@ -3,6 +3,7 @@ numpy
 inflect
 librosa==0.8.0
 Unidecode==1.0.22
+scipy==1.5.2
 pillow
 peakutils
 tgt
