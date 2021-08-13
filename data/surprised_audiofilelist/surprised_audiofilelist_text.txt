@@ -1,0 +1,8 @@
+data/surprised_samples/00000.wav|hiện nay vị trí của bàn thờ thường được đặt trong phòng riêng ở vị trí tầng trên của nhà.|0
+data/surprised_samples/00000_1.wav|hiện nay vị trí của bàn thờ thường được đặt trong phòng riêng ở vị trí tầng trên của nhà.|0
+data/surprised_samples/00002.wav|cả phố thắp đèn lồng lung linh và cảm giác nơi đây rất yên bình và con người cũng niềm nở.|0
+data/surprised_samples/00002_1.wav|cả phố thắp đèn lồng lung linh và cảm giác nơi đây rất yên bình và con người cũng niềm nở.|0
+data/surprised_samples/00003.wav|đây là mức chi phí có lí nhất dựa trên kỹ thuật ứng dụng tiên tiến mang đến sự ưng ý tuyệt đối cho trường hợp.|0
+data/surprised_samples/00003_1.wav|đây là mức chi phí có lí nhất dựa trên kỹ thuật ứng dụng tiên tiến mang đến sự ưng ý tuyệt đối cho trường hợp.|0
+data/surprised_samples/00004.wav|ca sĩ thái thùy linh chia sẻ con chị không mắc chứng tự kỷ.|0
+data/surprised_samples/00004_1.wav|ca sĩ thái thùy linh chia sẻ con chị không mắc chứng tự kỷ.|0
